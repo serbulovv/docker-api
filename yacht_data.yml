@@ -1,0 +1,41 @@
+yachts:
+  - id: 1
+    name: Serenity
+    length: 45.7
+    year: 2010
+    price: 1500000
+    owner:
+      name: John Smith
+      contact: john.smith@example.com
+  - id: 2
+    name: Ocean Explorer
+    length: 38.4
+    year: 2015
+    price: 2000000
+    owner:
+      name: Jane Doe
+      contact: jane.doe@example.com
+  - id: 3
+    name: Sea Breeze
+    length: 32.9
+    year: 2018
+    price: 1750000
+    owner:
+      name: Robert Johnson
+      contact: robert.johnson@example.com
+  - id: 4
+    name: Wind Whisperer
+    length: 50.3
+    year: 2020
+    price: 2500000
+    owner:
+      name: Emily Brown
+      contact: emily.brown@example.com
+  - id: 5
+    name: Aqua Adventure
+    length: 42.5
+    year: 2012
+    price: 1600000
+    owner:
+      name: Michael Davis
+      contact: michael.davis@example.com
