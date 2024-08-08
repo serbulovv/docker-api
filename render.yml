@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: docker-api-dockerfile
+    runtime: docker
+    region: frankfurt
+    plan: free
+    healthCheckPath: /
